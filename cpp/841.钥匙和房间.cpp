@@ -3,6 +3,10 @@
  *
  * [841] 钥匙和房间
  */
+#include <vector>
+#include <deque>
+
+using namespace std;
 
 // @lc code=start
 class Solution {
